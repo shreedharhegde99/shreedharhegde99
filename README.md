@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @shreedharhegde99
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Learning new things :innocent:
 - 🌱 I’m currently learning ... HTML,CSS,Javascript,React.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  snhkelemane@gmail.com
-- Watch my projects at [GitHub Pages](https://shreedharhegde99.github.io/Check-list/).
+
 
 
 
