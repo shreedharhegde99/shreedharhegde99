@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreedharhegde99
+ # 👋 Hi, I’m @shreedharhegde99
 - 👀 I’m interested in ... Learning new things :innocent:
 - 🌱 I’m currently learning ... HTML,CSS,Javascript,React.js
 - 📫 How to reach me ...  snhkelemane@gmail.com
