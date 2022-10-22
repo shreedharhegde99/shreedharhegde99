@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 *   🌍  I'm based in Bangalore
-*   🖥️  See my portfolio at [Here](http://shreedharhegde.netlify.app)
+*   🖥️  See my portfolio at [Here](https://shreedharhegde99.github.io)
 *   ✉️  You can contact me at [snhkelemane@gmail.com](mailto:snhkelemane@gmail.com)
 *   🧠  I'm learning MERN Stack
 
