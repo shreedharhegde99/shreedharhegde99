@@ -1,9 +1,9 @@
-# Hi 👋 My name is Shreedhar Hegde
+# Hi 👋 I am Shreedhar Hegde
 
 ## Full Stack Web Developer
 
 - 🌍  I'm based in Bangalore, Karnataka
-- 🖥️  See my portfolio at [Here](https://shreedharhegde99.github.io)
+- 🖥️  Visit my portfolio [Here](https://shreedharhegde99.github.io)
 - ✉️  You can contact me at [snhkelemane@gmail.com](mailto:snhkelemane@gmail.com)
 - 🧠  I'm learning MERN Stack
 
@@ -54,6 +54,7 @@
 
 <b>My GitHub Stats</b>
 
+<p style="display:flex">  
 <a href="http://www.github.com/shreedharhegde99">
 <img  src="https://github-readme-stats.vercel.app/api?username=shreedharhegde99&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shreedharhegde99's GitHub stats" />
 </a>
@@ -61,3 +62,4 @@
 <a href="http://www.github.com/shreedharhegde99">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shreedharhegde99&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+</p>
